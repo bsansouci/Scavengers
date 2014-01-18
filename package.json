@@ -1,0 +1,28 @@
+{
+  "name": "Scavengers",
+  "version": "0.0.1",
+  "description": "MHacks Project",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~3.4.8",
+    "logfmt": "~0.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bsansouci/Scavengers.git"
+  },
+  "keywords": [
+    "mhacks"
+  ],
+  "author": "David, Avery, Michael and Ben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsansouci/Scavengers/issues"
+  },
+  "homepage": "https://github.com/bsansouci/Scavengers"
+}
