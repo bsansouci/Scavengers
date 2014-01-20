@@ -1,0 +1,1732 @@
+[
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc10d6ae4fa020095e0e4",
+    "__v": 0,
+    "location": {
+      "latitude": 42.332186,
+      "longitude": -83.047292
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc1596ae4fa020095e0e6",
+    "__v": 0,
+    "location": {
+      "latitude": 42.332186,
+      "longitude": -83.047292
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc1d36ae4fa020095e0e7",
+    "__v": 0,
+    "location": {
+      "latitude": 42.333201,
+      "longitude": -83.045847
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc24c6ae4fa020095e0e8",
+    "__v": 0,
+    "location": {
+      "latitude": 42.333201,
+      "longitude": -83.045897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2506ae4fa020095e0e9",
+    "__v": 0,
+    "location": {
+      "latitude": 42.333201,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2546ae4fa020095e0ea",
+    "__v": 0,
+    "location": {
+      "latitude": 42.333201,
+      "longitude": -83.145197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2596ae4fa020095e0eb",
+    "__v": 0,
+    "location": {
+      "latitude": 42.333201,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc25e6ae4fa020095e0ec",
+    "__v": 0,
+    "location": {
+      "latitude": 42.332201,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2626ae4fa020095e0ed",
+    "__v": 0,
+    "location": {
+      "latitude": 42.322201,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2696ae4fa020095e0ee",
+    "__v": 0,
+    "location": {
+      "latitude": 42.331201,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2716ae4fa020095e0ef",
+    "__v": 0,
+    "location": {
+      "latitude": 42.331101,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2756ae4fa020095e0f0",
+    "__v": 0,
+    "location": {
+      "latitude": 42.331001,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2796ae4fa020095e0f1",
+    "__v": 0,
+    "location": {
+      "latitude": 42.330001,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc27d6ae4fa020095e0f2",
+    "__v": 0,
+    "location": {
+      "latitude": 42.331001,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2836ae4fa020095e0f3",
+    "__v": 0,
+    "location": {
+      "latitude": 42.331,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc28e6ae4fa020095e0f4",
+    "__v": 0,
+    "location": {
+      "latitude": 42.330999,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2936ae4fa020095e0f5",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33097,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2c46ae4fa020095e0f6",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33095,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2c76ae4fa020095e0f7",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33085,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2cb6ae4fa020095e0f8",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33055,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2d06ae4fa020095e0f9",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33065,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2d66ae4fa020095e0fa",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33065,
+      "longitude": -83.041197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2da6ae4fa020095e0fb",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33065,
+      "longitude": -83.047197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2dd6ae4fa020095e0fc",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33065,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2e16ae4fa020095e0fd",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33065,
+      "longitude": -83.045397
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2e46ae4fa020095e0fe",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33065,
+      "longitude": -83.045597
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2e86ae4fa020095e0ff",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33065,
+      "longitude": -83.045797
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2ec6ae4fa020095e100",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33065,
+      "longitude": -83.045897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc2fb6ae4fa020095e101",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33065,
+      "longitude": -83.045897
+    }
+  },
+  {
+    "time": 0,
+    "username": "jack",
+    "_id": "52dbc32b6ae4fa020095e104",
+    "__v": 0,
+    "location": {
+      "latitude": 0.01,
+      "longitude": 0.01
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc33b6ae4fa020095e106",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33065,
+      "longitude": -83.045197
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3406ae4fa020095e107",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33065,
+      "longitude": -83.045697
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3466ae4fa020095e108",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33075,
+      "longitude": -83.045697
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3496ae4fa020095e109",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33055,
+      "longitude": -83.045697
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc34d6ae4fa020095e10a",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33075,
+      "longitude": -83.045697
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3506ae4fa020095e10b",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33085,
+      "longitude": -83.045697
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3546ae4fa020095e10c",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33075,
+      "longitude": -83.045697
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3586ae4fa020095e10d",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33075,
+      "longitude": -83.045897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3976ae4fa020095e110",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33075,
+      "longitude": -83.045897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3ac6ae4fa020095e113",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33075,
+      "longitude": -83.045897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3b36ae4fa020095e114",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33015,
+      "longitude": -83.045897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3b76ae4fa020095e115",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33095,
+      "longitude": -83.045897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3bc6ae4fa020095e116",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33195,
+      "longitude": -83.045897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3bf6ae4fa020095e117",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33995,
+      "longitude": -83.045897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3c36ae4fa020095e118",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33695,
+      "longitude": -83.045897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3c76ae4fa020095e119",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.045897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3cb6ae4fa020095e11a",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.046897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3ce6ae4fa020095e11b",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.047897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3d16ae4fa020095e11c",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.049897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3d56ae4fa020095e11d",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.055897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3da6ae4fa020095e11e",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.059897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3de6ae4fa020095e11f",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.056897
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3e56ae4fa020095e120",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.0569
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3ea6ae4fa020095e121",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.057
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3f26ae4fa020095e122",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33395,
+      "longitude": -83.057
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3f66ae4fa020095e123",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.057
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3f96ae4fa020095e124",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3329,
+      "longitude": -83.057
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc3fd6ae4fa020095e125",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.057
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc4036ae4fa020095e126",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3329,
+      "longitude": -83.057
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc4076ae4fa020095e127",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.057
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc40b6ae4fa020095e128",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33297,
+      "longitude": -83.057
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc4116ae4fa020095e129",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33297,
+      "longitude": -83.0574
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8777064950200ed7552",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.057
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8817064950200ed7553",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.059
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8847064950200ed7554",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.054
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8877064950200ed7555",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.051
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc88a7064950200ed7556",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.041
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc88d7064950200ed7557",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33295,
+      "longitude": -83.046
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8937064950200ed7558",
+    "__v": 0,
+    "location": {
+      "latitude": 42.34295,
+      "longitude": -83.046
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8967064950200ed7559",
+    "__v": 0,
+    "location": {
+      "latitude": 42.35295,
+      "longitude": -83.046
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc89c7064950200ed755a",
+    "__v": 0,
+    "location": {
+      "latitude": 42.34495,
+      "longitude": -83.046
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8a37064950200ed755b",
+    "__v": 0,
+    "location": {
+      "latitude": 42.34495,
+      "longitude": -83.0465
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8a77064950200ed755c",
+    "__v": 0,
+    "location": {
+      "latitude": 42.34495,
+      "longitude": -83.046
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8aa7064950200ed755d",
+    "__v": 0,
+    "location": {
+      "latitude": 42.34495,
+      "longitude": -83.049
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8ae7064950200ed755e",
+    "__v": 0,
+    "location": {
+      "latitude": 42.34495,
+      "longitude": -83.05
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8b37064950200ed755f",
+    "__v": 0,
+    "location": {
+      "latitude": 42.34495,
+      "longitude": -83.06
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8b77064950200ed7560",
+    "__v": 0,
+    "location": {
+      "latitude": 42.34495,
+      "longitude": -83.05
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8bc7064950200ed7561",
+    "__v": 0,
+    "location": {
+      "latitude": 42.34595,
+      "longitude": -83.05
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8c07064950200ed7562",
+    "__v": 0,
+    "location": {
+      "latitude": 42.34395,
+      "longitude": -83.05
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8c47064950200ed7563",
+    "__v": 0,
+    "location": {
+      "latitude": 42.34295,
+      "longitude": -83.05
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8c77064950200ed7564",
+    "__v": 0,
+    "location": {
+      "latitude": 42.34195,
+      "longitude": -83.05
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8cc7064950200ed7565",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33695,
+      "longitude": -83.05
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8cf7064950200ed7566",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33495,
+      "longitude": -83.05
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8d37064950200ed7567",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33595,
+      "longitude": -83.05
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8d77064950200ed7568",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33695,
+      "longitude": -83.05
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8dc7064950200ed7569",
+    "__v": 0,
+    "location": {
+      "latitude": 42.336,
+      "longitude": -83.05
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8e07064950200ed756a",
+    "__v": 0,
+    "location": {
+      "latitude": 42.337,
+      "longitude": -83.05
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8e87064950200ed756b",
+    "__v": 0,
+    "location": {
+      "latitude": 42.337,
+      "longitude": -83.0501
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8f57064950200ed756c",
+    "__v": 0,
+    "location": {
+      "latitude": 42.337,
+      "longitude": -83.04999
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8fb7064950200ed756d",
+    "__v": 0,
+    "location": {
+      "latitude": 42.337,
+      "longitude": -83.04979
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc8fe7064950200ed756e",
+    "__v": 0,
+    "location": {
+      "latitude": 42.337,
+      "longitude": -83.04909
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc9017064950200ed756f",
+    "__v": 0,
+    "location": {
+      "latitude": 42.337,
+      "longitude": -83.04709
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc9057064950200ed7570",
+    "__v": 0,
+    "location": {
+      "latitude": 42.337,
+      "longitude": -83.04809
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc9087064950200ed7571",
+    "__v": 0,
+    "location": {
+      "latitude": 42.337,
+      "longitude": -83.04819
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc90c7064950200ed7572",
+    "__v": 0,
+    "location": {
+      "latitude": 42.337,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc9127064950200ed7573",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3375,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc9177064950200ed7574",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3377,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc91a7064950200ed7575",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3379,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc9207064950200ed7576",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3381,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc9237064950200ed7577",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3382,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc9277064950200ed7578",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3384,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc92b7064950200ed7579",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3385,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc92f7064950200ed757a",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3386,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc9337064950200ed757b",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3387,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbc9367064950200ed757c",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3389,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca5b1185d302004f6cee",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3389,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca671185d302004f6cef",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3489,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca6b1185d302004f6cf0",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3289,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca721185d302004f6cf1",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3349,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca751185d302004f6cf2",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3339,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca7a1185d302004f6cf3",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3345,
+      "longitude": -83.04859
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca801185d302004f6cf4",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3345,
+      "longitude": -83.04959
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca841185d302004f6cf5",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3345,
+      "longitude": -83.04659
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca891185d302004f6cf6",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3345,
+      "longitude": -83.04459
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca8d1185d302004f6cf7",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3345,
+      "longitude": -83.04259
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca921185d302004f6cf8",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3346,
+      "longitude": -83.04459
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca951185d302004f6cf9",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3347,
+      "longitude": -83.04459
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca981185d302004f6cfa",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3349,
+      "longitude": -83.04459
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbca9d1185d302004f6cfb",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3352,
+      "longitude": -83.04459
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcaa11185d302004f6cfc",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3359,
+      "longitude": -83.04459
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcaa41185d302004f6cfd",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3353,
+      "longitude": -83.04459
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcaa91185d302004f6cfe",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3352,
+      "longitude": -83.04459
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcaae1185d302004f6cff",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3352,
+      "longitude": -83.0447
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcab11185d302004f6d00",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3352,
+      "longitude": -83.0448
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcab61185d302004f6d01",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3352,
+      "longitude": -83.045
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcae31185d302004f6d04",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3352,
+      "longitude": -83.045
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcae71185d302004f6d05",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3352,
+      "longitude": -83.046
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcaeb1185d302004f6d06",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3452,
+      "longitude": -83.046
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcaf31185d302004f6d07",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3332,
+      "longitude": -83.046
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcaf61185d302004f6d08",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3322,
+      "longitude": -83.046
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcafa1185d302004f6d09",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3322,
+      "longitude": -83.0463
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcaff1185d302004f6d0a",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3322,
+      "longitude": -83.047
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb021185d302004f6d0b",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3322,
+      "longitude": -83.0475
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb061185d302004f6d0c",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3322,
+      "longitude": -83.048
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb0c1185d302004f6d0d",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3322,
+      "longitude": -83.0478
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb111185d302004f6d0e",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3326,
+      "longitude": -83.0478
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb321185d302004f6d11",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3326,
+      "longitude": -83.0478
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb371185d302004f6d12",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3356,
+      "longitude": -83.0478
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb3a1185d302004f6d13",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3316,
+      "longitude": -83.0478
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb3d1185d302004f6d14",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3326,
+      "longitude": -83.0478
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb401185d302004f6d15",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3336,
+      "longitude": -83.0478
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb451185d302004f6d16",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3336,
+      "longitude": -83.0498
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb491185d302004f6d17",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3336,
+      "longitude": -83.0458
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb4c1185d302004f6d18",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3336,
+      "longitude": -83.045
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb501185d302004f6d19",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3336,
+      "longitude": -83.044
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb541185d302004f6d1a",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3336,
+      "longitude": -83.0447
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb571185d302004f6d1b",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3336,
+      "longitude": -83.0445
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb5c1185d302004f6d1c",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3336,
+      "longitude": -83.0447
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb5f1185d302004f6d1d",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3336,
+      "longitude": -83.0448
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb631185d302004f6d1e",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3336,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb661185d302004f6d1f",
+    "__v": 0,
+    "location": {
+      "latitude": 42.333,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb6a1185d302004f6d20",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3339,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb6f1185d302004f6d21",
+    "__v": 0,
+    "location": {
+      "latitude": 42.334,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb861185d302004f6d24",
+    "__v": 0,
+    "location": {
+      "latitude": 42.334,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb8c1185d302004f6d25",
+    "__v": 0,
+    "location": {
+      "latitude": 42.333,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb8f1185d302004f6d26",
+    "__v": 0,
+    "location": {
+      "latitude": 42.332,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb921185d302004f6d27",
+    "__v": 0,
+    "location": {
+      "latitude": 42.331,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb961185d302004f6d28",
+    "__v": 0,
+    "location": {
+      "latitude": 42.33,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb9b1185d302004f6d29",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3315,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcb9e1185d302004f6d2a",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3318,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcba11185d302004f6d2b",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3313,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcba41185d302004f6d2c",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3316,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcba71185d302004f6d2d",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3315,
+      "longitude": -83.0449
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcbab1185d302004f6d2e",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3315,
+      "longitude": -83.045
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcbaf1185d302004f6d2f",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3315,
+      "longitude": -83.0456
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcbb31185d302004f6d30",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3315,
+      "longitude": -83.046
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcbb71185d302004f6d31",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3315,
+      "longitude": -83.0462
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcbba1185d302004f6d32",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3315,
+      "longitude": -83.0464
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcbbd1185d302004f6d33",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3315,
+      "longitude": -83.0463
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcbbf1185d302004f6d34",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3315,
+      "longitude": -83.0462
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcbc31185d302004f6d35",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3316,
+      "longitude": -83.0462
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcbc61185d302004f6d36",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3314,
+      "longitude": -83.0462
+    }
+  },
+  {
+    "time": 0,
+    "username": "ben",
+    "_id": "52dbcbc91185d302004f6d37",
+    "__v": 0,
+    "location": {
+      "latitude": 42.3313,
+      "longitude": -83.0462
+    }
+  }
+]

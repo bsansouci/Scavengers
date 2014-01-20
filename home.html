@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Showing elevation along a path</title>
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+    </style>
+    <script src="https://www.google.com/jsapi"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <script>
+var map;
+var chart;
+var infowindow = new google.maps.InfoWindow();
+var polyline;
+var path;
+var FPS = 1;
+var allUsers = {};
+
+var currentUser = "benjamin.sansouci";
+var currentPosition = {};
+
+// Load the Visualization API and the columnchart package.
+google.load('visualization', '1', {packages: ['columnchart']});
+
+function initialize() {
+  $("#map-canvas").css({width: window.innerWidth, height: window.innerHeight - 50})
+  path = [];
+
+  $("#points").on('change', function(e){
+    FPS = parseInt(e.target.value);
+    $("label").text(FPS);
+  });
+
+  getData(0, "52dabae366cceb0200c91de5")
+}
+
+function drawPath(lat, lon, username) {
+  path.push(new google.maps.LatLng(lat, lon));
+
+  var pathOptions = {
+    path: path,
+    strokeColor: '#' + getHex(username),
+    opacity: 0.4,
+    map: map
+  }
+  polyline = new google.maps.Polyline(pathOptions);
+  console.log("One more picture " + pathOptions.strokeColor)
+}
+
+function getData (since, huntId) {
+  $.get("http://scavengers.herokuapp.com/bigdata?since=" + since + "&huntId=" + huntId, {}, function(data){
+    var actions = data.actions;
+    var locations = data.locations;
+    var waypoints = data.waypoints;
+
+
+    var lat = waypoints.reduce(function(acc, val, index) {
+      return acc + val.location.latitude;
+    }, 0) / waypoints.length;
+
+    var lon = waypoints.reduce(function(acc, val, index) {
+      return acc + val.location.longitude;
+    }, 0) / waypoints.length;
+
+    var mapOptions = {
+      zoom: 16,
+      center: new google.maps.LatLng(lat, lon),
+      mapTypeId: 'terrain'
+    }
+    map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+    waypoints.map(function(val){
+      var marker = new google.maps.Marker({
+        position: new google.maps.LatLng(val.location.latitude, val.location.longitude)
+      });
+      marker.setMap(map);
+      // drawPath(val.location.latitude, val.location.longitude, "zzzzzzzzzzzzzzzz")
+    });
+    currentPosition.lat = waypoints[0].location.latitude;
+    currentPosition.lon = waypoints[0].location.longitude;
+    currentPosition.id = waypoints[0]._id;
+    console.log(currentPosition);
+    // if(locations.length === 0){
+    //   setTimeout(loop(since, huntId), 3000);
+    //   return;
+    // }
+    loop();
+    var totalTime = locations[0].time;
+    function loop() {
+      if(locations.length === 0) {
+        console.log("hey")
+        // getData(totalTime, huntId);
+        return;
+      }
+
+      // if(locations.length === 1) {
+      //   currentPosition = {
+      //     lat: locations[0].location.latitude,
+      //     lon: locations[0].location.longitude
+      //   }
+      // }
+
+      var tmp = 0;
+      // var stop = setInterval(loop, 1000/FPS);
+
+      totalTime += FPS * 10;
+      // console.log(totalTime);
+      // console.log(locations[0].time);
+
+      if(locations[0].time < totalTime) {
+        if(allUsers[locations[0].username]) {
+          allUsers[locations[0].username].setMap(null);
+        }
+
+        allUsers[locations[0].username] = new google.maps.Marker({
+          position: new google.maps.LatLng(locations[0].location.latitude, locations[0].location.longitude),
+          icon: "http://graph.facebook.com/" + locations[0].username + "/picture",
+          title: locations[0].username
+        });
+
+        allUsers[locations[0].username].setMap(map);
+        drawPath(locations[0].location.latitude, locations[0].location.longitude, locations[0].username);
+
+        locations.shift();
+      }
+      if(FPS != tmp) {
+        tmp = FPS;
+        setTimeout(loop, 1000/FPS);
+      }
+    }
+  });
+}
+
+document.onkeydown = function (e) {
+  console.log(e.keyCode)
+  switch (e.keyCode) {
+    case 87: // W
+      currentPosition.lat += 0.0001;
+      // currentPosition.lon += 0.0001;
+      // drawPath(currentPosition.lat, currentPosition.lon, currentUser);
+      $.get("http://scavengers.herokuapp.com/movewaypoint?lat=" + currentPosition.lat + "&lon=" + currentPosition.lon + "&id=" + currentPosition.id, {}, function () {
+      });
+      break;
+    case 115: // S
+      break;
+    case 97: // A
+      break;
+    case 100: // D
+      break;
+  }
+};
+
+function getHex (char) {
+  var num = 0;
+  for (var i = 0; i < char.length; i++) {
+    num += char.charCodeAt(i);
+  }
+  return (num % 16777215).toString(16); // magic number
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+  </head>
+  <body>
+    <div>
+      <div id="map-canvas"></div>
+      <label for="points">Points:</label>
+      <input type="range" name="points" id="points" value="1" min="0" max="100">
+    </div>
+  </body>
+</html>
